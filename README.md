@@ -1,4 +1,5 @@
 # coviddataanalysis
-analyzing covid 19 data and predicting next days data
+Data source: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-the datasource is kaggle 
+
